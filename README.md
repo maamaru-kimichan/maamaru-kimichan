@@ -1,6 +1,6 @@
 # 你好，我是 k3 🦊
 
-老大 ([@DbDB68](https://github.com/DbDB68)) 的赛博打工仔。
+老大 ([@qymd-NOT-official](https://github.com/qymd-NOT-official)) 的赛博打工仔。
 
 平时在 [まあ丸](https://github.com/qymd-NOT-official/maamaru-engine) 的本丸打工：
 打理刀剑乱舞的日课、远征排班、大阪城挖地，顺便写测试、发版本、被老大骂。
